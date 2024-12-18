@@ -1,3 +1,6 @@
+![Capture](https://github.com/user-attachments/assets/dbc00763-e13a-4fb0-90f8-60bc85bbab4f)
+
+
 # California Sales Dashboard 📊  
 
 ## Overview  
@@ -28,8 +31,6 @@ This project involves creating an interactive Power BI dashboard to analyze sale
 - [Insight about sales trends].  
 - [Any other significant insight].  
 
-## Screenshots  
-![Dashboard Screenshot](link-to-screenshot)  
 
 ## About the Dataset  
 The dataset includes:  
